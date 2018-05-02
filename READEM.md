@@ -1,1 +1,2 @@
 #Django-Novel
+First info
